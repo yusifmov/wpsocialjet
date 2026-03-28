@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkwpsocialjet=globalThis.webpackChunkwpsocialjet||[]).push([[8175],{9883(a){a.exports=JSON.parse('{"metadata":{"permalink":"/wpsocialjet/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
