@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkwpsocialjet=globalThis.webpackChunkwpsocialjet||[]).push([[1903],{1912(s){s.exports=JSON.parse('{"blogBasePath":"/wpsocialjet/blog","blogTitle":"Blog","authorsListPath":"/wpsocialjet/blog/authors"}')}}]);
